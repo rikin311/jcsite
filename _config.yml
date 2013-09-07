@@ -1,0 +1,8 @@
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
+exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
+paginate_path: "blog/page:num"
+paginate: 6
+permalink: /:month/:day/:year/:title
+

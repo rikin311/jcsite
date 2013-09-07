@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'verb_extralightitalic';
+    src: url('/fonts/VerbExtralight-Italic-webfont.eot');
+    src: url('/fonts/VerbExtralight-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/VerbExtralight-Italic-webfont.woff') format('woff'),
+         url('/fonts/VerbExtralight-Italic-webfont.ttf') format('truetype'),
+         url('/fonts/VerbExtralight-Italic-webfont.svg#verb_extralightitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'verb_extralightregular';
+    src: url('/fonts/VerbExtralight-webfont.eot');
+    src: url('/fonts/VerbExtralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/VerbExtralight-webfont.woff') format('woff'),
+         url('/fonts/VerbExtralight-webfont.ttf') format('truetype'),
+         url('/fonts/VerbExtralight-webfont.svg#verb_extralightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'verb_regularbold';
+    src: url('/fonts/VerbBold-webfont.eot');
+    src: url('/fonts/VerbBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/VerbBold-webfont.woff') format('woff'),
+         url('/fonts/VerbBold-webfont.ttf') format('truetype'),
+         url('/fonts/VerbBold-webfont.svg#verb_regularbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'verb_mediumregular';
+    src: url('/fonts/VerbMedium-webfont.eot');
+    src: url('/fonts/VerbMedium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/VerbMedium-webfont.woff') format('woff'),
+         url('/fonts/VerbMedium-webfont.ttf') format('truetype'),
+         url('/fonts/VerbMedium-webfont.svg#verb_mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'verb_regularregular';
+    src: url('/fonts/VerbRegular-webfont.eot');
+    src: url('/fonts/VerbRegular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/VerbRegular-webfont.woff') format('woff'),
+         url('/fonts/VerbRegular-webfont.ttf') format('truetype'),
+         url('/fonts/VerbRegular-webfont.svg#verb_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+

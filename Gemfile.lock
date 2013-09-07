@@ -29,6 +29,7 @@ GEM
       syntax (>= 1.0.0)
     posix-spawn (0.3.6)
     rack (1.4.1)
+    redcarpet (1.17.2)
     syntax (1.0.0)
 
 PLATFORMS
@@ -37,3 +38,4 @@ PLATFORMS
 DEPENDENCIES
   RedCloth
   rack-jekyll!
+  redcarpet
